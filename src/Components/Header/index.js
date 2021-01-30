@@ -1,5 +1,7 @@
+import "./style.css";
 import React from 'react';
 import NavBar from "../NavBar/index";
+
 
 export default function Header() {
     return (
@@ -14,6 +16,8 @@ export default function Header() {
                     <NavBar />
                 </section>
             </section>
+
+            <section className="header-top-seperator"></section>
 
             <section className="header-bottom">
                 <section className="header-bottom-github">

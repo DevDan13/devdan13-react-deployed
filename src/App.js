@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from "../src/Components/Header/index";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
