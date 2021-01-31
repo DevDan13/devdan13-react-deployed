@@ -13,7 +13,9 @@ export default function Header() {
                 </section>
 
                 <section className="header-top-NavBar">
-                    <NavBar />
+                    <section className="header-top-navigate">
+                        <NavBar />
+                    </section>
                 </section>
             </section>
 
