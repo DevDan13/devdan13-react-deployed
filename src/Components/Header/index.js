@@ -1,15 +1,14 @@
-import React from 'react';
+import React from "react";
 import NavBar from "../NavBar/index";
 import "./style.css";
-
 
 export default function Header() {
     return (
         <section className="header">
 
             <section className="header-top">
-                <section className="header-top-about">
-                    <a href="/" className="header-about">About Me</a>
+                <section className="header-top-title">
+                    <a href="/" className="header-title">Daniel Cintron</a>
                 </section>
 
                 <section className="header-top-NavBar">

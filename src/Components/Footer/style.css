@@ -10,9 +10,9 @@
 
     display: flex;
     justify-content: center;
-    margin-left: 600px;
+    text-align: center;
 }
 
 .footer-icons, .footer-title{
-    margin-left: 50px;
+    margin-left: 25px;
 }
