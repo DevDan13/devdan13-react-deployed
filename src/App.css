@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: radial-gradient(#bbe1fa, #bbe1fa);
+}

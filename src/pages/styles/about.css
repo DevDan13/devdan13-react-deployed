@@ -1,3 +1,10 @@
+.resume{
+    text-align: right;
+    margin-right: 55px;
+    font-size: 25px;
+    font-family: Ubuntu;
+}
+
 .code-icon{
     height: 3rem;
     flex-direction: column;
@@ -8,6 +15,7 @@
 .about-text-body{
     font-size: 30px;
     font-family: Ubuntu;
+    margin: 115px
 }
 
 .image-wrapper {
@@ -16,5 +24,5 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    margin-left: 38%;
+    margin-left: 40%;
 }

@@ -20,6 +20,10 @@ export default function Header() {
 
             <section className="header-top-seperator"></section>
 
+            <section className="header-bottom">
+
+            </section>
+
         </section>
 
     )
