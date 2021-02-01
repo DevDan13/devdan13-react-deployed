@@ -1,0 +1,20 @@
+.code-icon{
+    height: 3rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+.about-text-body{
+    font-size: 30px;
+    font-family: Ubuntu;
+}
+
+.image-wrapper {
+    width: 18%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin-left: 38%;
+}

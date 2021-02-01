@@ -8,6 +8,7 @@ export default function NavBar() {
         <section className="navbar">
             <Link to="/" className="navbar-item">About</Link>
             <Link to="/portfolio" className="navbar-item">Portfolio</Link>
+            <Link to="/contact" className="navbar-item">Contact</Link>
         </section>
     )
 }
