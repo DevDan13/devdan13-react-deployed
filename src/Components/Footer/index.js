@@ -33,7 +33,9 @@ export default function Footer() {
                 
             </section>
 
-            <section>&copy;Copyright DevDan13 2021</section>
+            <section className="footer-copy">
+                &copy;Copyright DevDan13 2021
+            </section>
         </section>
     )
 }
