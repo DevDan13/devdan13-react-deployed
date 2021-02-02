@@ -9,7 +9,7 @@ export default function AboutMe() {
         <div className="container">
 
             <section className="resume">
-                {/* pdf resume link here */} Resume
+                <a href="https://drive.google.com/file/d/1H0o-tDOlF6N_z-oMkKp2KPjMarjmSEWu/view?usp=sharing">Resume</a> 
             </section>
 
 
