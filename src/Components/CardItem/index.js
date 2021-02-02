@@ -5,7 +5,7 @@ function CardItem(props) {
   return (
     <>
       <li className='card-item'>
-        <Link className='card-item-link' to={{ pathname: props.path}} target="_blank">
+        <Link className='card-item-link' target="_blank" to={{ pathname: props.path}} >
           <figure className='card-item-pic-wrap' data-category={props.label}>
             <img
               className='card-item-img'
