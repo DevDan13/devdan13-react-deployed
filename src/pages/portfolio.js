@@ -1,9 +1,10 @@
 import React from 'react'
+import Project from '../Components/Project'
 
-export default function portfolio() {
+export default function Portfolio() {
     return (
         <div>
-            Portfolio
+            <Project />
         </div>
     )
 }

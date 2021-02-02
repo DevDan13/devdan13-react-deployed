@@ -15,7 +15,8 @@
 .about-text-body{
     font-size: 30px;
     font-family: Ubuntu;
-    margin: 115px
+    margin: 115px;
+    color: black;
 }
 
 .image-wrapper {
