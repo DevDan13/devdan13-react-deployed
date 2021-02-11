@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from "@material-ui/core/Button";
 
 function CardItem(props) {
   return (
@@ -16,7 +17,24 @@ function CardItem(props) {
             <h5 className='card-item-text'>{props.text}</h5>
           </div>
         </a>
-      </li>
+        <Button
+          size="small"
+          target="_blank"
+          rel="noreferrer"
+          href={props.link}
+          variant="contained"
+          style={{
+            borderWidth: 1,
+            color: "white",
+            borderColor: "blue",
+            borderStyle: "solid",
+            backgroundColor: "#1f98f4",
+            position: "absolute",
+            marginTop: 232,
+            marginLeft: 85
+          }}>Deployed App
+        </Button>
+    </li>
     </>
   );
 }
