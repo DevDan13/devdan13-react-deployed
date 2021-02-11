@@ -30,7 +30,7 @@ function CardItem(props) {
             borderStyle: "solid",
             backgroundColor: "#1f98f4",
             position: "absolute",
-            marginTop: 232,
+            marginTop: 259,
             marginLeft: 85
           }}>Deployed App
         </Button>
