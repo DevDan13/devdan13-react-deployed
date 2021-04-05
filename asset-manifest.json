@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/devdan13-react-deployed/static/css/main.67c96a58.chunk.css",
-    "main.js": "/devdan13-react-deployed/static/js/main.5f529589.chunk.js",
-    "main.js.map": "/devdan13-react-deployed/static/js/main.5f529589.chunk.js.map",
+    "main.css": "/devdan13-react-deployed/static/css/main.9d95a3e2.chunk.css",
+    "main.js": "/devdan13-react-deployed/static/js/main.3f2db7ec.chunk.js",
+    "main.js.map": "/devdan13-react-deployed/static/js/main.3f2db7ec.chunk.js.map",
     "runtime-main.js": "/devdan13-react-deployed/static/js/runtime-main.4b6c5f7d.js",
     "runtime-main.js.map": "/devdan13-react-deployed/static/js/runtime-main.4b6c5f7d.js.map",
     "static/js/2.bc8bc75b.chunk.js": "/devdan13-react-deployed/static/js/2.bc8bc75b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.906f0f7c.chunk.js": "/devdan13-react-deployed/static/js/3.906f0f7c.chunk.js",
     "static/js/3.906f0f7c.chunk.js.map": "/devdan13-react-deployed/static/js/3.906f0f7c.chunk.js.map",
     "index.html": "/devdan13-react-deployed/index.html",
-    "static/css/main.67c96a58.chunk.css.map": "/devdan13-react-deployed/static/css/main.67c96a58.chunk.css.map",
+    "static/css/main.9d95a3e2.chunk.css.map": "/devdan13-react-deployed/static/css/main.9d95a3e2.chunk.css.map",
     "static/js/2.bc8bc75b.chunk.js.LICENSE.txt": "/devdan13-react-deployed/static/js/2.bc8bc75b.chunk.js.LICENSE.txt",
     "static/media/code.da6197f5.svg": "/devdan13-react-deployed/static/media/code.da6197f5.svg",
     "static/media/javascript.cfd19b1d.svg": "/devdan13-react-deployed/static/media/javascript.cfd19b1d.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b6c5f7d.js",
     "static/js/2.bc8bc75b.chunk.js",
-    "static/css/main.67c96a58.chunk.css",
-    "static/js/main.5f529589.chunk.js"
+    "static/css/main.9d95a3e2.chunk.css",
+    "static/js/main.3f2db7ec.chunk.js"
   ]
 }
