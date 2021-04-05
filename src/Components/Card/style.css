@@ -23,16 +23,20 @@
   
   .card-items {
     margin-bottom: 24px;
+    display: flex;
+    /* height: 600px; */
+    flex-wrap: wrap;
+    align-content: space-between;
   }
   
   .card-item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
+    margin: 0 15rem;
     border-radius: 10px;
   }
   
-  .card-item-link {
+  .card-item-path {
     display: flex;
     flex-flow: column;
     width: 100%;
@@ -105,11 +109,14 @@
     }
   }
   
-  @media only screen and (min-width: 1024px) {
+  /* @media only screen and (min-width: 1024px) {
     .card-items {
       display: flex;
+      height: 600px;
+      flex-wrap: wrap;
+      align-content: space-between;
     }
-  }
+  } */
   
   @media only screen and (max-width: 1024px) {
     .card-item {

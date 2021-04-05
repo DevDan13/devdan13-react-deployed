@@ -12,13 +12,7 @@ function CardItem(props) {
               alt='Project img'
               src={props.src}
             />
-          </figure>
-          <div className='card-item-info'>
-            <h3>{props.title}</h3>
-            <h5 className='card-item-text'>{props.text}</h5>
-          </div>
-        </a>
-        <Button
+          </figure><Button
           size="small"
           target="_blank"
           rel="noreferrer"
@@ -31,10 +25,17 @@ function CardItem(props) {
             borderStyle: "solid",
             backgroundColor: "#1f98f4",
             position: "absolute",
-            marginTop: 259,
-            marginLeft: 85
+            display: "flex",
+            justifyContent:"center",
+            marginLeft:"40px"
           }}>Deployed App
         </Button>
+          <div className='card-item-info'>
+            {/* <h3>{props.title}</h3> */}
+            <h5 className='card-item-text'>{props.text}</h5>
+          </div>
+        </a>
+        
     </li>
     </>
   );

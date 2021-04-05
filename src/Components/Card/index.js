@@ -10,16 +10,19 @@ function Card() {
       <div className='card-container'>
         <div className='card-wrapper'>
           <ul className='card-items'>
-            {projects.map( (project) => (
+            {projects.map( (project, i) => {
+              return(
               <CardItem
-              src={project.src}
-              text={project.text}
-              title={project.title}
-              label={project.label}
-              path={project.path}
-              link={project.link}
+                key={i}
+                src={project.src}
+                text={project.text}
+                title={project.title}
+                label={project.label}
+                path={project.path}
+                link={project.link}
               />
-            ))}
+              )
+            })}
           </ul>
         </div>
       </div>

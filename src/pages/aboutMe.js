@@ -8,12 +8,7 @@ export default function AboutMe() {
     return (
         <div className="container">
 
-            <section className="resume">
-                <a href="https://drive.google.com/file/d/1H0o-tDOlF6N_z-oMkKp2KPjMarjmSEWu/view?usp=sharing">Resume</a> 
-            </section>
-
-
-            <p className="about-text-body">Hello I'm Daniel Cintron, Full Stack Web developer with a passion to solve problems and communicate ideas and solutions with others.  Throughout My development experience I have learned a number of coding languages and libraries.  Among these are HTML5 <span><img className="code-icon" src={codeIcon} alt="code" /></span>, CSS3, Javascript <span><img className="code-icon" src={jsIcon} alt="Javascript" /></span>, JQuery, react <span><img className="code-icon" src={reactIcon} alt="react" /></span>,MongoDB, MySQL, and Express.
+            <p className="about-text-body">Hello I'm Daniel Cintron, Full Stack Web developer with a passion to solve problems and communicate ideas and solutions with others.  Throughout My development experience I have learned a number of coding languages and libraries.  Among these are HTML5 <span><img className="code-icon" src={codeIcon} alt="code" /></span>, CSS3, Javascript <span><img className="code-icon" src={jsIcon} alt="Javascript" /></span>, JQuery, ReactJs <span><img className="code-icon" src={reactIcon} alt="react" /></span>,MongoDB, MySQL, and Express.
             </p>
 
             <img className="image-wrapper" src="https://pbs.twimg.com/profile_images/765396515443634176/D6vkGTQE_400x400.jpg" alt="Daniel Cintron" />
