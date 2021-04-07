@@ -9,7 +9,7 @@ export default function NavBar() {
             <Link to="/" className="navbar-item">About</Link>
             <Link to="/portfolio" className="navbar-item">Portfolio</Link>
             <Link to="/contact" className="navbar-item">Contact</Link>
-            <a className="navbar-item" href="https://drive.google.com/file/d/1H0o-tDOlF6N_z-oMkKp2KPjMarjmSEWu/view?usp=sharing">Resume</a>
+            <a className="navbar-item" href="https://docs.google.com/document/d/1MvNxu8OJf5GQrOzbybnVOsGEvslyo-XqFOXcd1gAQJc/export?format=pdf">Resume</a>
 
         </section>
     )
