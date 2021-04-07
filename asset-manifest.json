@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/devdan13-react-deployed/static/css/main.9d95a3e2.chunk.css",
-    "main.js": "/devdan13-react-deployed/static/js/main.3f2db7ec.chunk.js",
-    "main.js.map": "/devdan13-react-deployed/static/js/main.3f2db7ec.chunk.js.map",
+    "main.js": "/devdan13-react-deployed/static/js/main.54078411.chunk.js",
+    "main.js.map": "/devdan13-react-deployed/static/js/main.54078411.chunk.js.map",
     "runtime-main.js": "/devdan13-react-deployed/static/js/runtime-main.4b6c5f7d.js",
     "runtime-main.js.map": "/devdan13-react-deployed/static/js/runtime-main.4b6c5f7d.js.map",
     "static/js/2.bc8bc75b.chunk.js": "/devdan13-react-deployed/static/js/2.bc8bc75b.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.4b6c5f7d.js",
     "static/js/2.bc8bc75b.chunk.js",
     "static/css/main.9d95a3e2.chunk.css",
-    "static/js/main.3f2db7ec.chunk.js"
+    "static/js/main.54078411.chunk.js"
   ]
 }
